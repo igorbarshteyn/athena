@@ -1,0 +1,20 @@
+{
+  "package_version": "2.0",
+  "prepared_date": "2026-09-19",
+  "timezone": "Etc/UTC",
+  "repository": "igorbarshteyn/athena",
+  "project": "Athena",
+  "reviewed_head": "e747c0362c4e1c3b95756a57154d09b8df7811ce",
+  "reviewed_readme_blob": "8ceb41ae912c874b143fc0b5ff584e72fd74dea3",
+  "custom_license_id": "LicenseRef-Athena-NCARD-2.0",
+  "adoption_rule": "First authorized publication of LICENSE with LICENSING-SCOPE.md; no retroactive withdrawal of independent rights.",
+  "legal_review_completed": false,
+  "inventory_scope": "Targeted repository metadata, README, installer and licensing-source review; not a line-by-line provenance audit.",
+  "legacy_observation": "MIT declaration found in the current README; preserve earlier permissions.",
+  "application_source_and_runtime_changes_included": false,
+  "ai_assisted_legal_drafting_review_completed": true,
+  "licensed_counsel_approval_obtained": false,
+  "prior_package_version": "1.0",
+  "license_name": "Athena Noncommercial, Attribution and Responsible Deployment License",
+  "runtime_assent_or_safeguards_implemented": false
+}

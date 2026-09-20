@@ -1,0 +1,33 @@
+{
+  "template_version": "2.0",
+  "status": "UNCOMPLETED TEMPLATE \u2014 not a clearance or a record of installed software",
+  "instructions": "Replace null values with verified release-specific facts. Keep sensitive records private. Do not substitute this template for required license copies.",
+  "repository": "igorbarshteyn/athena",
+  "release_commit": null,
+  "reviewed_by": null,
+  "review_date": null,
+  "components": [
+    {
+      "name": null,
+      "category": null,
+      "upstream_project_url": null,
+      "upstream_immutable_revision": null,
+      "download_url": null,
+      "local_paths": [],
+      "artifact_sha256": null,
+      "license_identifier_or_name": null,
+      "license_text_path": null,
+      "upstream_notice_paths": [],
+      "base_model_and_conversion_provenance": null,
+      "acceptable_use_policy_path": null,
+      "distributed_or_external_prerequisite": null,
+      "redistribution_permission_verified": false,
+      "required_display_or_attribution": null,
+      "unresolved_issues": [],
+      "igor_authored_expression": null,
+      "third_party_expression": null,
+      "human_authorship_or_assignment_evidence": null,
+      "prior_grants": null
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+Athena
+Official repository: https://github.com/igorbarshteyn/athena
+Initial licensor: Igor Barshteyn
+
+REQUIRED ORIGINAL-AUTHOR ATTRIBUTION
+Original Athena contributions by Igor Barshteyn.
+Third-party components belong to their respective authors.
+Source: https://github.com/igorbarshteyn/athena
+
+Copyright (c) 2026 Igor Barshteyn, solely for his copyrightable original
+contributions. Preserve any more specific dates, authorship and notices.
+Do not attribute third-party components or others' modifications to Igor.
+This notice asserts neither sole authorship of the dependency stack nor rights
+in ideas, functionality, ordinary outputs or independently licensed material.
+
+Covered original contributions are offered under the Athena Noncommercial,
+Attribution and Responsible Deployment License, version 2.0
+(LicenseRef-Athena-NCARD-2.0). Commercial use is not licensed. Personal use,
+qualifying noncommercial research, updates and modifications are permitted
+subject to LICENSE. Attribution is required by Section 5. Sections 12-14
+contain warranty/liability provisions and defense/indemnification obligations.
+
+Earlier independent licenses and upstream ownership and notice requirements
+are preserved. See LICENSING-SCOPE.md, LICENSING-TRANSITION.md,
+THIRD-PARTY-NOTICES.md and MODEL-LICENSES.md. An installed combination of both
+Athena projects must retain both projects' applicable notices.
+
+No endorsement by ggml, OpenAI, Microsoft, NVIDIA, Alibaba, Meta, Canopy Labs,
+Unsloth or other upstream contributors is implied. A modified version must
+identify its changes and must not imply Igor authored or endorsed those changes.
+
+Licensing correspondence: use the maintainer contact route at the official
+repository. This is not an agreement to accept formal legal service by a GitHub
+issue. Do not post private conversations, credentials or sensitive memory.
+An AI response is not a license grant, waiver or authorized legal consent.

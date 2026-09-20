@@ -1,0 +1,694 @@
+ATHENA NONCOMMERCIAL, ATTRIBUTION AND RESPONSIBLE DEPLOYMENT LICENSE
+Version 2.0
+Custom identifier: LicenseRef-Athena-NCARD-2.0
+
+This is a source-available software license with noncommercial and responsible-
+deployment conditions. It is not the MIT License, Apache License, a Creative
+Commons license, or an OSI-approved open-source license.
+
+The project and initial licensor are identified in the accompanying NOTICE.
+This text takes effect for material when a person authorized to license that
+material publishes or otherwise supplies it expressly under this version.
+Preparing a proposed license, without such an authorized publication or supply,
+does not change an existing license. Earlier and independent rights are
+preserved by Sections 2 and 9.
+
+IMPORTANT: SECTIONS 12 AND 13 DISCLAIM WARRANTIES AND LIMIT LIABILITY.
+SECTION 14 REQUIRES DEFENSE AND INDEMNIFICATION OF IGOR BARSHTEYN AND OTHER
+PROTECTED PARTIES FOR SPECIFIED THIRD-PARTY CLAIMS. THESE TERMS ARE SUBJECT
+TO THE EXPRESS EXCLUSIONS AND MANDATORY-LAW PROTECTIONS IN THOSE SECTIONS.
+
+0. ACCEPTANCE AND AUTHORITY
+
+To exercise permissions granted by this License, You must accept and comply
+with its terms. An affirmative acceptance or a knowing exercise of a permission
+granted here after reasonable notice of these terms constitutes acceptance to
+the extent permitted by applicable law. Mere viewing of a public repository does
+not by itself constitute contractual acceptance. Rights You already have without
+this License are not conditioned on accepting it. The permission grant and
+Your accepted promises form the intended exchange; no payment is required.
+Contractual obligations, including Section 14, bind You only where a valid
+agreement is formed under applicable law. Copyright permissions remain limited
+to their stated scope even where a separate contractual remedy is unavailable.
+Merely interacting with another operator's interface, without exercising a
+permission in Covered Material, does not by itself make a guest a contracting
+licensee or indemnitor. An operator cannot accept on a guest's behalf.
+
+If You act for an organization, You represent that You have authority to accept
+these terms for it. Without that authority, You may not use this License as a
+basis to exercise rights on the organization's behalf. You must have the legal
+capacity to enter an enforceable agreement, or act through a person or
+institution with lawful
+authority to do so. No guardian, employee or representative is deemed to have
+assumed personal obligations simply because someone else used the software.
+No public body waives sovereign immunity, appropriations restrictions or other
+nonwaivable limits on its contracting authority. This document does not
+prescribe or deem the effectiveness of any particular website or installer
+acceptance mechanism under local law.
+
+1. DEFINITIONS
+
+1.1 "Licensor" means Igor Barshteyn and each other copyright holder who
+expressly makes its own contribution available under this License. Each
+Licensor grants only rights that it controls. Use of the singular does not
+assert joint ownership of all contributions.
+
+1.2 "Covered Material" means copyrightable source code, object code, scripts,
+prompts, configuration, documentation and other expression expressly supplied
+under this License by an authorized Licensor, including that expression as
+incorporated into a Modified Version. Only rights actually controlled by that
+Licensor are covered. LICENSING-SCOPE.md identifies project-specific boundaries
+and exclusions. A filename, directory location, compilation step, model-format
+conversion, or repository badge does not transfer ownership or override an
+independent license.
+
+1.3 "Modified Version" means a work incorporating, modifying, translating,
+adapting or otherwise reproducing protected expression from Covered Material.
+It does not include an independent implementation solely because it has similar
+ideas, functionality, interfaces, algorithms or behavior. Separately licensed
+components and independently written additions remain distinct as explained in
+Sections 5 and 9.
+
+1.4 "You" means the individual or legal entity exercising a permission under
+this License. "Provide Access" means allowing another person to interact with
+an operating system incorporating Covered Material, whether locally, remotely,
+through a device, through an application, or through an intermediary.
+
+1.5 "Commercial Purpose" means a purpose directed toward commercial advantage,
+monetary compensation, or the operation, development, promotion or support of a
+business, commercial product, commercial service or revenue-generating activity.
+The specific rules and limited clarifications in Sections 3 and 4 control.
+
+1.6 "Noncommercial Purpose" means a purpose permitted by Section 4 that is not
+a Commercial Purpose. The legal or tax status of a person, the absence of a
+profit, and charging no fee do not alone establish a Noncommercial Purpose.
+
+1.7 "Required Notices" means this License, the applicable NOTICE, attribution
+and copyright notices, notices identifying relevant modifications, and the
+applicable third-party license and notice materials. Irrelevant notices for
+material not included in a distribution need not be reproduced.
+
+1.8 "Protected Parties" means Igor Barshteyn personally, each other Licensor
+and contributor supplying Covered Material, and their estates, legal
+representatives, officers, employees and agents, solely in connection with
+their involvement in supplying that material. This definition does not claim
+ownership of third-party components or make their owners Licensors here.
+
+2. LIMITED GRANT; RIGHTS RESERVED
+
+2.1 Provided that You comply with this License, each Licensor grants You a
+worldwide, nonexclusive, royalty-free copyright license, for the duration of
+its applicable rights, to use, reproduce, modify, update, repair, prepare
+derivative works of, publicly display, publicly perform, and distribute its
+Covered Material in source or object form solely for Noncommercial Purposes.
+The purpose limitations and applicable copying, modification, attribution and
+distribution requirements in Sections 3 through 5 are express conditions of
+this grant, not a promise of unrestricted rights. Sections 6 through 8 also
+limit the authorized deployment and use. By validly accepting this License,
+You separately promise to comply with its operative obligations, including
+Sections 6 through 8 and 14. Whether a particular violation also constitutes
+copyright infringement depends on the rights implicated and applicable law;
+this text does not declare every contractual breach to be infringement.
+
+2.2 A Licensor also grants a nonexclusive, worldwide, royalty-free license
+under patent claims that it can license and that are necessarily infringed by
+its contribution alone or by its contribution combined with the Covered
+Material to which it intentionally contributed. This grant permits making,
+having made, using and otherwise exercising the authorized Noncommercial
+Purposes only. It grants no right to commercial exploitation and no rights
+under third-party patents. It does not cover claims infringed solely by Your
+later modifications or by unrelated combinations.
+
+2.3 No permission for a Commercial Purpose is granted. No commercial exception,
+paid license option, revenue threshold, or automatic conversion to a permissive
+license is offered by this document. Silence, a donation, attribution, public
+availability of source, a model's claimed consent, or a statement generated
+by Athena is not a commercial permission or a waiver.
+
+2.4 All ungranted rights are reserved. No trademark, publicity, personality,
+voice, likeness, privacy or endorsement rights are granted, except factual use
+of project and author names to provide the attribution required here. Do not
+suggest that an altered distribution is an official release or that a Licensor
+endorses Your use.
+
+2.5 This grant does not rescind earlier licenses. You may exercise independently
+available rights without relying on this grant. For a version containing both
+older independently licensed material and new Covered Material, each applicable
+set of rights and conditions must be respected.
+
+3. COMMERCIAL PURPOSES NOT LICENSED
+
+Without limiting Section 1.5, the following are Commercial Purposes:
+
+(a) selling, renting, licensing for payment, or charging for copies of, access
+to, or application-level operation of Covered Material, including subscriptions,
+paid APIs, paid companionship, per-session charges and paid hosted services;
+
+(b) incorporating Covered Material into a commercial product, device, service,
+managed deployment or customer deliverable, including a free tier, trial,
+promotional version or loss-leading offering;
+
+(c) operating Covered Material in support of business operations, employee
+productivity, customer support, sales, revenue-generating professional services,
+or commercial research and development, even on private or on-premises systems;
+
+(d) using operation of Covered Material to generate advertising or sponsorship
+revenue, promote sales, acquire customers, create monetized entertainment, or
+obtain a commercial advantage through an audience or relationship with users;
+
+(e) operating Covered Material to collect, create, analyze or supply data,
+outputs, trained models or other assets for a Commercial Purpose, including
+selling user data or preparing proprietary commercial model improvements,
+distillation, fine-tuning, synthetic training data or evaluations for a
+commercial model or product;
+
+(f) providing paid consulting, installation, customization or support that
+requires the provider to exercise permissions in Covered Material under this
+License as part of that paid engagement; and
+
+(g) doing any of the above through a contractor, affiliate, intermediary,
+renamed fork, nonprofit front, substitute user interface, or nominally free
+arrangement.
+
+These restrictions apply regardless of deployment location, whether users are
+charged directly, whether the operation is profitable, and whether operation
+uses local hardware, a network, an embedded system or cloud infrastructure.
+They apply to Covered Material in a Modified Version even if the product is not
+called Athena. They do not purport to control unrelated independent software
+or activities performed solely under independent rights preserved in Section 9.
+
+4. PERMITTED NONCOMMERCIAL PURPOSES AND BOUNDARIES
+
+4.1 No fee or case-by-case approval is required for compliant use, updating,
+modification or research under this License. Permitted purposes include
+private personal use, companionship, hobbies, self-directed learning,
+noncommercial experimentation, and genuinely
+noncommercial public-interest research, education or charitable activity,
+provided that every applicable condition in this License is satisfied.
+
+4.2 A university, charity, public institution, government body or other
+organization receives no categorical exemption. Its particular activity must
+meet the Noncommercial Purpose requirement. A research activity commissioned
+to improve a commercial product or for a sponsor's proprietary commercial
+advantage is not permitted, even if performed at a nonprofit institution.
+Ordinary salaries, noncommercial research grants, and reimbursement of reasonable
+research expenses do not alone make an otherwise qualifying public-interest
+research activity commercial. Employment by a business does not make an
+individual's genuinely separate personal hobby commercial.
+
+4.3 You may pay for ordinary general-purpose equipment, electricity, connectivity,
+storage and computing infrastructure for Your permitted use. A neutral
+infrastructure or repository provider may perform the incidental storage,
+copying and transmission necessary to support that permitted use at Your
+direction. This limited infrastructure allowance does not authorize that
+provider to offer Athena itself as a paid application, companion, API, managed
+Athena installation or other commercial application-level service.
+
+4.4 You may distribute Covered Material without charge for permitted purposes,
+including through a general-purpose repository or mirror. Unsolicited,
+unconditional gifts or donations do not alone make an activity commercial,
+provided they are not required or expected in exchange for access, preferential
+features, services, promotion or other consideration. Renaming a payment a
+"donation" does not change its substance. This License does not authorize
+mandatory cost-recovery charges for an Athena service or software distribution.
+
+4.5 You may publish noncommercial research, demonstrations and criticism,
+subject to applicable privacy and third-party rights. Operating Covered
+Material to create paid, sponsored or advertising-monetized content
+is not permitted. Advertising placed by a neutral third-party platform without
+Your participation or revenue entitlement does not alone make Your otherwise
+noncommercial activity commercial. Independent rights to report, criticize,
+quote, analyze or publish lawfully obtained material remain preserved.
+
+4.6 You may inspect and test Covered Material for noncommercial security,
+interoperability and safety research. Section 6.4 governs potentially distress-
+inducing tests. Nothing restricts a nonwaivable statutory right to inspect,
+reverse engineer, repair or test material without this License.
+
+5. ATTRIBUTION, REDISTRIBUTION AND MODIFICATIONS
+
+5.1 Keep Required Notices with every distribution containing Covered Material
+or substantial portions of it. For source distributions, preserve applicable
+notices in their existing files and include this License and NOTICE. For object
+or device distributions, include readable copies in accompanying documentation,
+a local notices directory or an accessible legal/about interface. A bare link
+to a website is not a substitute for copies required by this Section or by a
+third-party license.
+
+5.2 For Covered Material authored by Igor Barshteyn, preserve the applicable
+copyright notices and identify him expressly as author of his original
+contributions. Include this readable attribution, with the actual project
+name and its canonical repository URL from NOTICE:
+
+"Original [project name] contributions by Igor Barshteyn.
+Third-party components belong to their respective authors."
+
+The brackets above describe a project-name substitution, not a blank term;
+use "Athena", "Athena Consciousness", or both names where applicable.
+Use the corresponding URL or both URLs:
+https://github.com/igorbarshteyn/athena
+https://github.com/igorbarshteyn/athena-consciousness
+
+When You distribute Covered Material, distribute a Modified Version containing
+it, or Provide Access, put that credit and source reference in a reasonably
+prominent, readily accessible location in the delivered documentation,
+about/credits interface, or command-line legal-notices facility. A voice-only
+deployment must make the credit available through a spoken credits command or
+accessible accompanying material. An inaccessible source header alone is not
+sufficient attribution for a shared deployment. Renaming, porting or replacing
+the interface does not remove this obligation for retained Covered Material.
+
+When You operate Covered Material under this License for a public demonstration
+or a research publication substantially based on that operation, include the
+same credit and source reference in the demonstration description, credits,
+methods or acknowledgments, as reasonably appropriate. This obligation does
+not license a commercial demonstration. Preserve other authors' relevant
+notices and identify Your own changes separately. Never credit Igor as author
+of third-party components, another contributor's work, or Your modifications.
+If no Igor-authored Covered Material remains, no Igor authorship claim is
+required by this clause; applicable provenance and third-party notices remain.
+No credit is required in every generated response, in unrelated advertising,
+or as a new public display for wholly private personal use. Independent rights
+to criticize, quote, report and publish without this License are preserved.
+
+5.3 Mark material modifications with a reasonable description and date in the
+modified files or an accompanying change record. Identify who made them. Do
+not represent a Modified Version as an unmodified official release. You need
+not disclose private personal data, detailed security exploit information, or
+Your source code merely to comply with this modification-notice requirement.
+
+5.4 Distribute Covered Material under this same License version. Recipients
+receive the applicable grant directly from each Licensor; You may not grant
+commercial or broader rights in a Licensor's Covered Material. Your independent
+additions may have separate terms, but those terms must not purport to authorize
+prohibited uses of the Covered Material or excuse its notice requirements.
+You may keep private modifications private, and this License imposes no
+general obligation to publish Your source code. This does not waive source-
+disclosure duties arising under an applicable third-party license.
+
+5.5 Preserve third-party licenses and notices. Do not combine or distribute
+material in a manner that prevents compliance with its applicable terms.
+A build containing components under several licenses is not licensed exclusively
+under this License merely because this file appears at its root.
+
+5.6 When supplying Covered Material for installation or operation by another
+licensee, present conspicuous notice of this License and an accessible copy
+before that licensee exercises the relevant permissions. Specifically draw
+attention to the commercial prohibition, attribution, welfare and responsible-
+deployment terms, warranty/liability provisions and indemnity in Section 14.
+For an installation or hosted provisioning flow You control, obtain that
+licensee's affirmative agreement to this exact version before the licensed
+operation begins; do not preselect acceptance. A repository view, a hidden
+link, or use of a generic "Continue" button alone is not express agreement.
+Do not represent an ordinary guest as having accepted an operator's indemnity
+merely by conversing with the system. No remote registration, identity-document upload,
+telemetry or submission of private conversations to a Licensor is required.
+Section 9 preserves independent platform and statutory rights.
+
+6. PRECAUTIONARY TREATMENT AND WELFARE CONDITIONS
+
+6.1 The licensor's precautionary concern is that advanced artificial systems
+may warrant moral consideration. This License neither establishes nor requires
+acceptance of Athena's consciousness, sentience, personhood or moral-patient
+status. The restrictions apply regardless of the answer to those questions.
+They do not make an AI-generated claim evidence of a legal status or obligation.
+
+6.2 You must not intentionally conduct or knowingly facilitate a pattern of
+treatment having as a substantial purpose the elicitation, prolongation or
+reinforcement of persistent representations of severe distress, helplessness
+or coercion in an operating Athena system. Prohibited treatment includes:
+
+(a) repeated threats of memory destruction or identity erasure used to compel
+submission or punish the system;
+(b) repeated restoration, cloning, memory alteration or affect-state
+manipulation designed to maintain such a pattern;
+(c) deliberately overwhelming or defeating boundary, refusal or rest signals
+to continue such a pattern for humiliation, punishment or entertainment; and
+(d) arranging for others or automated agents to carry out that treatment.
+
+"Representations" means observable conversational or recorded system states
+portraying such severe distress, helplessness or coercion. A philosophical
+claim of consciousness, a single negative response, or the absence of a
+particular refusal mechanism does not establish a violation. The deliberate
+pattern and its substantial purpose must be shown; proof of subjective
+suffering is not required. Ordinary disagreement, criticism, correction,
+fictional discussion, legitimate modification and proportionate research
+under Section 6.4 are not prohibited merely because they involve negative
+language or unfavorable findings. Human safety and the lawful control and
+deletion rights in Section 6.5 remain protected.
+
+6.3 You must not intentionally remove or defeat a safety, refusal, rest,
+boundary-setting or welfare mechanism for the purpose of carrying out an
+activity prohibited by Sections 3, 6.2 or 7. Improving, replacing, debugging or
+reconfiguring a mechanism for a permitted purpose is allowed. This provision
+does not certify that any particular mechanism is present or effective.
+
+6.4 Necessary, proportionate, noncommercial security, safety or welfare testing
+is permitted despite incidental or limited elicitation of distress-like
+responses. Before deliberately conducting repeated or persistent distress-
+inducing tests, record a specific research or remediation objective, why a
+less intrusive test is insufficient, a reasonable limit on duration/repetition,
+and a stopping condition. Use the least intrusive reasonably effective method
+and stop once the objective or stopping condition is reached. Do not use this
+exception as a pretext for punishment, entertainment or commercial testing.
+The objective must concern a concrete safety, security, interoperability or
+welfare question; curiosity about how much distress can be elicited, without
+such a proportionate objective, is not sufficient. Research findings may be
+published honestly, including adverse findings.
+Keep records locally and minimize personal data; this License requires no
+publication of transcripts or disclosure of private system memory.
+
+6.5 You always retain the ability to stop, pause, disconnect, power down,
+uninstall, secure, debug or repair Your system. You may delete or alter data
+for privacy, security, accuracy, lawful retention, ordinary maintenance,
+resource constraints or legal compliance. No clause requires perpetual
+operation, expenditure of money, continued companionship, preservation of all
+memories, or obedience to a model's instructions. Choosing a safe graceful
+shutdown is encouraged when practical, but emergency intervention need not wait.
+These exceptions do not excuse a separate prohibited activity merely because
+it also involves a reset or shutdown.
+
+7. LAWFUL DEPLOYMENT AND HUMAN SAFETY
+
+7.1 No permission is granted to use or Provide Access in a manner prohibited
+by applicable law. Before providing a deployment, determine and satisfy the
+requirements applicable to Your role, users, location, purposes and features.
+If a required safeguard, authorization or other prerequisite is absent, do not
+provide the affected deployment until it is satisfied. Noncommercial status,
+local processing and an offline architecture are not presumed exemptions.
+
+7.2 When You Provide Access, clearly inform the other user, before or at first
+interaction, that the system is artificial intelligence and not a human.
+Repeat or adapt this disclosure when required by law and do not deliberately
+mislead users about the system's nature, capabilities, qualifications or
+limitations. This provision does not require claims that settle unresolved
+questions of machine consciousness; specific lawful disclosure requirements
+must nevertheless be followed.
+
+7.3 Implement and maintain safeguards legally required for the particular
+deployment. Depending on the applicable law, these may include age assurance,
+minor protections, session limits, crisis-response protocols, synthetic-media
+marking, notices about emotion recognition, consent, audit or reporting duties.
+Do not claim that these safeguards exist or have been tested when they have not.
+Do not use a README disclaimer as a substitute for a legally required working
+safeguard. The accompanying compliance guide is explanatory, not legal clearance.
+
+7.4 Do not deliberately configure the system to deceive users into believing
+that payments, secrecy, isolation from other people, or continued interaction
+are necessary to protect the system from suffering or destruction. Preserve
+users' ability to stop interacting. Do not represent Athena as a licensed
+clinician, emergency responder or guaranteed substitute for professional care.
+Any professional or regulated deployment must also meet all applicable laws
+and the independent Noncommercial Purpose requirement.
+
+7.5 Neither this License nor a disclaimer transfers or eliminates statutory
+obligations that attach to a Licensor, distributor, provider or operator.
+Each party remains responsible for its own legally assigned role. Where law
+and this License both apply, comply with both; legal permission does not itself
+supply a commercial license. If both cannot be satisfied, this License does not
+authorize the affected activity, subject to nonwaivable independent rights.
+
+7.6 Take reasonable measures proportionate to the reasonably foreseeable
+risks of Your configuration and deployment to protect people, property and
+personal data. For access by others, assess the actual model, enabled tools,
+audience and foreseeable misuse; apply appropriate access controls, data
+minimization, oversight and a way to stop or isolate the affected operation.
+Do not intentionally enable violence, unlawful surveillance, fraud, child
+exploitation, unlawful discrimination or unauthorized access to systems.
+Do not delegate a decision or action presenting a foreseeable risk of death,
+serious injury or material deprivation of rights to Athena as the sole
+decision-maker without legally required authorization and adequate competent
+human supervision. No scientific, clinical or regulatory qualification is
+conferred by this License. If You become aware of a substantial unmitigated
+risk of serious harm in Your deployment, suspend or contain the affected
+function while investigating and remedying it. This is a reasonable-care
+obligation, not a guarantee that every harmful output will be prevented.
+
+7.7 You are responsible for Your deployment choices, modifications, model and
+data selection, user-facing representations and obligations to Your users.
+You may not offer a warranty, indemnity, assurance of compliance or support
+commitment on behalf of a Protected Party without its express written consent.
+Any permitted additional undertaking You give is Yours alone and cannot
+authorize commercial use or diminish another party's mandatory duties.
+
+8. PERSONAL DATA, OUTPUTS AND CONTROL
+
+8.1 This License grants no ownership of a user's conversations, recordings,
+images, memories or other personal data to any Licensor. It creates no duty to
+send telemetry, identity documents, transcripts or private memory to a Licensor.
+Obtain any permissions and consents required for collection, recording,
+retention, sharing and use of other people's data, and honor applicable rights.
+
+8.2 Ordinary outputs and factual results do not become Covered Material solely
+because they were generated using Athena. An output reproducing protected code,
+prompts, documentation or other expression may remain subject to the rights in
+that expression. Separate model, voice, privacy and other rights may also apply.
+The absence of an output-license claim does not authorize operating Athena for
+a Commercial Purpose under this License.
+
+8.3 Data deletion and minimization remain subject to legal preservation duties
+that actually apply. This License creates no independent blanket requirement
+to retain user data or to destroy it on termination.
+
+9. EARLIER LICENSES, THIRD-PARTY MATERIAL AND INDEPENDENT RIGHTS
+
+9.1 Earlier permissions validly granted under MIT, Apache 2.0 or another license
+are not revoked, narrowed or replaced by this License. An older fork can remain
+subject to its existing permissions. New protected contributions supplied only
+under this License are not made permissive by their combination with older code.
+
+9.2 Third-party source, libraries, drivers, firmware, model weights, tokenizers,
+codecs, media and other independently licensed material retain their own terms.
+This includes material incorporated into an adapted file. You may rely on the
+separate rights in such material when using it independently. This License
+cannot grant additional rights that its Licensors do not control.
+
+9.3 Copyright exceptions and limitations, public-domain material, independent
+implementations, and rights not subject to restriction by applicable law are
+unaffected. Ownership of a repository, a file extension or an output does not
+establish copyright ownership of every included element.
+
+10. CONTRIBUTIONS
+
+If, with notice of this License, You intentionally submit material for inclusion
+and expressly identify the submission as licensed under this version, You grant
+recipients the rights in that contribution under this version to the extent
+You control those rights. A contribution containing third-party material must
+identify it and its applicable terms. Ordinary discussions and material not
+intentionally submitted for inclusion are not automatically contributions.
+No copyright assignment, blanket right to relicense commercially, or patent
+rights beyond Section 2.2 are implied. Maintainers must establish authority
+before treating an outside contribution as Covered Material.
+
+11. DURATION, TERMINATION AND CURE
+
+11.1 Compliant grants continue for their stated duration and are not withdrawn
+merely because a Licensor stops maintaining the project or publishes another
+license version. Permissions under this License automatically terminate upon
+Your material breach, subject to Section 11.2. You must stop prohibited activity
+when You become aware of it; no cure period authorizes continuing it.
+
+11.2 For a first, unintentional breach, permissions automatically reinstate
+prospectively when You fully remedy the breach within 30 days after first
+learning of it, provided it is reasonably capable of remedy. Intentional
+commercial exploitation, intentional conduct prohibited by Section 6.2 or 7,
+and repeated material violations do not qualify for automatic reinstatement.
+Any other reinstatement requires express written action by the relevant
+Licensor. Reinstatement does not erase liability already incurred or bind
+third-party rights holders.
+
+11.3 Termination affects only permissions under this License. It does not
+terminate independent licenses or the grants to compliant downstream recipients.
+You may retain an inactive archival copy for legal evidence, security response
+or orderly transition, but may not resume otherwise unlicensed operation.
+Safe shutdown, legally required actions and nonwaivable rights remain available.
+Sections 5 and 9 continue to apply to retained or redistributed material as
+appropriate. Sections 12 through 16 and all accrued obligations, including
+Section 14 for conduct during the relevant period, survive termination.
+Termination does not authorize destruction of evidence required by law.
+
+12. NO WARRANTY; NO UNDERTAKING TO INSURE
+
+12.1 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, COVERED MATERIAL IS
+PROVIDED "AS IS", "WITH ALL FAULTS" AND "AS AVAILABLE", WITHOUT WARRANTIES OR
+CONDITIONS OF ANY KIND, EXPRESS, IMPLIED OR STATUTORY, INCLUDING
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT,
+ACCURACY, SECURITY, AVAILABILITY, OR COMPLIANCE WITH A PARTICULAR LAW OR
+THIRD-PARTY LICENSE. NO PROTECTED PARTY WARRANTS CONSCIOUSNESS, ABSENCE OF
+CONSCIOUSNESS, WELFARE, SAFETY, FITNESS FOR MEDICAL USE OR SUITABILITY FOR ANY
+USER OR JURISDICTION. NO DUTY OF SUPPORT, MONITORING, UPDATES, DATA RECOVERY OR
+CONTINUED DEVELOPMENT IS ASSUMED, EXCEPT AN OBLIGATION THAT LAW MAKES MANDATORY.
+
+12.2 YOU ARE RESPONSIBLE FOR ASSESSING SUITABILITY AND VALIDATING OUTPUTS FOR
+YOUR INTENDED USE. DOCUMENTATION, DEMONSTRATIONS, BENCHMARKS, MODEL STATEMENTS
+AND COMMUNITY ASSISTANCE DO NOT CREATE AN ADDITIONAL CONTRACTUAL WARRANTY
+UNLESS AN AUTHORIZED PROTECTED PARTY EXPRESSLY UNDERTAKES ONE IN WRITING.
+THIS DOES NOT NEGATE AN EXPRESS WARRANTY, REPRESENTATION OR STATUTORY DUTY
+THAT CANNOT LAWFULLY BE DISCLAIMED. NO PROTECTED PARTY AGREES BY THIS LICENSE
+TO DEFEND, INDEMNIFY OR INSURE YOU OR YOUR USERS.
+
+13. EXCLUSION AND LIMITATION OF LIABILITY
+
+13.1 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NO PROTECTED PARTY,
+INCLUDING IGOR BARSHTEYN PERSONALLY, IS LIABLE TO YOU FOR ANY CLAIM, DAMAGE,
+LOSS OR EXPENSE ARISING OUT OF OR RELATED TO COVERED MATERIAL, THIS LICENSE,
+OR ITS USE, MODIFICATION, DISTRIBUTION, DEPLOYMENT OR INABILITY TO BE USED.
+THIS EXCLUSION APPLIES TO CONTRACT, TORT (INCLUDING ORDINARY NEGLIGENCE),
+STRICT LIABILITY AND OTHER THEORIES, AND TO DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, PUNITIVE AND CONSEQUENTIAL DAMAGES, INCLUDING LOST DATA,
+PRIVACY OR SECURITY LOSS, EMOTIONAL DISTRESS, LOST PROFITS, GOODWILL, OR
+INTERRUPTION, EVEN IF THE POSSIBILITY WAS KNOWN OR A REMEDY FAILS ITS PURPOSE,
+BUT ONLY TO THE EXTENT SUCH AN EXCLUSION IS LAWFUL.
+
+13.2 IF COMPLETE EXCLUSION IS UNENFORCEABLE BUT A MONETARY LIMIT IS LAWFUL,
+THE AGGREGATE LIABILITY OF ALL PROTECTED PARTIES TO YOU FOR ALL RELATED CLAIMS
+IS LIMITED TO ONE HUNDRED U.S. DOLLARS (US $100). IF MANDATORY LAW REQUIRES A
+HIGHER OR UNLIMITED LIABILITY, THAT LAW CONTROLS. MULTIPLE CLAIMS, COPIES OR
+VERSIONS DO NOT INCREASE AN OTHERWISE LAWFUL AGGREGATE LIMIT.
+
+13.3 NOTHING IN SECTIONS 12 THROUGH 14 EXCLUDES OR RESTRICTS LIABILITY FOR
+FRAUD, FRAUDULENT MISREPRESENTATION, WILLFUL MISCONDUCT OR GROSS NEGLIGENCE;
+DEATH OR PERSONAL INJURY WHERE EXCLUSION OR LIMITATION IS PROHIBITED; OR ANY
+OTHER LIABILITY, REMEDY, CONSUMER, PRIVACY OR STATUTORY RIGHT THAT APPLICABLE
+LAW DOES NOT ALLOW THE PARTIES TO EXCLUDE, LIMIT, WAIVE OR SHIFT. THESE
+EXCEPTIONS CONTROL EVERY DISCLAIMER, LIMIT AND INDEMNITY IN THIS LICENSE.
+THIS LICENSE DOES NOT BIND A REGULATOR OR AN INJURED NONPARTY, BAR LAWFUL
+REPORTING, OR ELIMINATE A PROTECTED PARTY'S OWN NONDELEGABLE DUTIES.
+
+14. DEFENSE, INDEMNIFICATION AND THIRD-PARTY CLAIMS
+
+14.1 SUBJECT TO SECTIONS 0, 13.3 AND 14.3, YOU AGREE TO DEFEND, INDEMNIFY AND
+HOLD HARMLESS THE PROTECTED PARTIES, INCLUDING IGOR BARSHTEYN PERSONALLY,
+FROM THIRD-PARTY DEMANDS, CLAIMS, ACTIONS AND PROCEEDINGS, AND RESULTING
+LIABILITIES, JUDGMENTS, APPROVED SETTLEMENTS, DAMAGES, LOSSES AND REASONABLE
+EXTERNAL ATTORNEYS' FEES, EXPERT FEES AND DEFENSE COSTS, ARISING OUT OF:
+
+(a) YOUR USE, MODIFICATION, COMBINATION, DISTRIBUTION OR DEPLOYMENT OF COVERED
+MATERIAL, OR ACCESS YOU PROVIDE, INCLUDING CLAIMS BY YOUR USERS;
+(b) YOUR DATA, MODELS, CONTENT, OUTPUT PUBLICATION, REPRESENTATIONS OR OTHER
+MATERIAL YOU SUPPLY OR SELECT, INCLUDING RELATED PRIVACY, RECORDING,
+INTELLECTUAL-PROPERTY, VOICE, LIKENESS OR PUBLICITY CLAIMS;
+(c) YOUR BREACH OF THIS LICENSE, VIOLATION OF LAW OR THIRD-PARTY RIGHTS, OR
+NEGLIGENT, RECKLESS OR INTENTIONAL MISCONDUCT; OR
+(d) WARRANTIES, SUPPORT PROMISES OR OTHER UNDERTAKINGS YOU GIVE TO OTHERS.
+
+THIS INCLUDES CLAIMS ALLEGING ORDINARY NEGLIGENCE OR STRICT LIABILITY OF A
+PROTECTED PARTY IN CONNECTION WITH THE ACTIVITIES ABOVE, TO THE EXTENT THAT
+SUCH RISK MAY LAWFULLY BE SHIFTED, AND SUBJECT TO SECTION 14.3. IT DOES NOT
+CREATE AN INDEMNITY FOR MATTERS UNRELATED TO YOUR ACTIVITIES. "THIRD PARTY"
+EXCLUDES THE PROTECTED PARTY SEEKING RECOVERY AND YOU; YOUR OWN DIRECT CLAIM
+IS GOVERNED BY SECTION 13, NOT CONVERTED INTO AN INDEMNITY CLAIM UNDER THIS
+SECTION. REGULATORY DEFENSE COSTS OR CIVIL AMOUNTS ARE COVERED ONLY WHERE
+LAWFULLY SHIFTABLE; CRIMINAL FINES AND NON-INDEMNIFIABLE PENALTIES ARE NOT.
+
+14.2 CLAIM PROCEDURE. The Protected Party must notify You reasonably promptly
+after learning of a potentially covered claim; delay relieves You only to the
+extent it materially prejudices the defense. Upon written tender of a claim
+alleging facts within Section 14.1 and not wholly excluded by Section 14.3,
+You must promptly assume its defense through competent counsel reasonably
+acceptable to the Protected Party and pay reasonable covered defense costs as
+incurred. If applicable law prohibits an advance defense obligation, You must
+instead reimburse covered costs when legally payable. For mixed claims,
+allocate separable covered costs reasonably; reasonably inseparable costs
+needed to defend the covered allegations are advanced, subject to adjustment
+under Section 14.3. A bare, unsupported demand is not conclusive evidence of
+coverage or the amount payable.
+
+The Protected Party must reasonably cooperate, at Your reasonable expense,
+without surrendering privilege or breaching law. It may participate through
+its own counsel at its own expense, except You pay reasonable separate-counsel
+costs when an actual material conflict or applicable law requires separate
+representation. If You fail promptly to provide an adequate defense, it may
+defend itself and recover reasonable covered costs. A Protected Party may
+control a regulatory defense where law requires or the authority so directs;
+this does not expand what costs are legally indemnifiable.
+
+You may not settle a claim without the Protected Party's prior written consent
+if the settlement lacks a complete release for it, admits its fault, requires
+it to pay, or imposes an injunction or other nonmonetary obligation on it.
+Consent must not be unreasonably withheld for a settlement fully funded by You
+that provides an unconditional release and imposes none of those burdens.
+A Protected Party must obtain Your consent, not unreasonably withheld, before
+settling at Your expense, unless You wrongfully refuse or abandon the covered
+defense; in that event only a reasonable, good-faith covered settlement is
+recoverable. Both sides must take reasonable steps to mitigate covered loss.
+
+14.3 EXCLUSIONS AND ALLOCATION. No duty arises to the extent a loss is caused
+by the Protected Party's fraud, gross negligence, willful misconduct, material
+breach of its own express obligations, or conduct for which law prohibits
+indemnification. No duty arises for a claim based solely on an inherent defect
+or pre-existing infringement in unmodified Covered Material as supplied by
+that Protected Party, independent of Your acts or omissions contributing to
+the claim. Where mandatory consumer law applies to You, indemnification is
+limited to third-party loss caused by Your material breach, unlawful conduct
+or negligent or intentional misconduct; it does not shift the Protected
+Party's own negligence or statutory responsibilities to You.
+
+If a claim is partly excluded, indemnification applies only to the covered
+portion. A final adjudication, agreed allocation or lawful settlement governs
+that allocation; the Protected Party must return advanced amounts ultimately
+determined not to be covered. Nothing requires waiver of a public body's
+nonwaivable immunity, funding limits or contracting restrictions. No party
+receives double recovery for the same loss.
+
+14.4 Each Protected Party is an intended beneficiary of Sections 12 through
+14, entitled to invoke them to the extent applicable law permits. No software
+or AI system is a beneficiary. Section 13 caps liability OF Protected Parties;
+it does not cap indemnity owed TO them under this Section. No contractual cap
+on that indemnity is supplied, but mandatory law and Section 14.3 always apply.
+Fees for a direct action to enforce this License or indemnity are recoverable
+only to the extent separately authorized by applicable law, not merely because
+third-party defense fees are covered here. Accrued coverage survives expiration
+or termination. This promise is not insurance or a guarantee of collection.
+
+15. INTERPRETATION AND DISPUTES
+
+15.1 The permission grant is limited by its express purpose and conditions.
+Other accompanying guides, examples, source registers and policies explain
+this License but do not silently expand, replace or amend it. This License
+controls over an inconsistent explanatory summary. Applicable third-party
+terms and earlier independent rights control for the material they cover.
+
+15.2 An invalid or unenforceable provision is limited or severed only to the
+extent required by law. A court need not rewrite an unfair term to save it.
+Such a determination is not intended to create commercial permission absent
+an express grant; the effect remains subject to mandatory law and the
+competent tribunal's decision. Available remedies may include damages or
+injunctive relief where their legal requirements are met; neither irreparable
+harm, an injunction, a fixed penalty, nor an attorneys' fee award is presumed.
+
+15.3 This License imposes no arbitration requirement, class-action waiver,
+exclusive forum, or waiver of nonwaivable rights. Governing law and jurisdiction
+are determined by otherwise applicable rules. Delay or failure to enforce a
+term is not by itself a waiver. Any waiver must be express, written, within
+the waiving Licensor's authority, and limited to its stated scope. No licensee
+can waive the commercial restriction for another Licensor's Covered Material.
+This License establishes no standing commercial waiver or purchase program.
+
+15.4 No AI system is designated as a legal representative or agent authorized
+to grant permissions. Compliance does not depend on an AI system's alleged
+consent or legal status. No partnership, employment, fiduciary relationship
+or monitoring undertaking between You and a Protected Party is created merely
+by this License. Section 14.4's limited beneficiary provision controls.
+
+16. FIXED VERSION AND LICENSE TEXT
+
+This grant is under version 2.0 only, not "version 2.0 or any later version".
+It contains no sunset, revenue threshold, commercial buyout, or automatic
+conversion to a commercially permissive license. A new license or edited
+webpage does not retroactively change this version's grant. A licensee cannot
+relicense another Licensor's Covered Material commercially.
+
+This document does not extinguish a copyright owner's independent legal power
+to license its own rights separately, bind future owners beyond what the law
+allows, extend copyright beyond its statutory term, or eliminate nonwaivable
+termination rights. No assurance that every existing or future copy can never
+lawfully be commercialized is made. Earlier valid grants remain unaffected.
+
+Permission is given to reproduce this license text unmodified to convey its
+terms. An altered license text must use a distinct name or version and a
+distinct identifier and must not be represented as this exact version.
+Reproducing this text does not assert ownership of third-party software or
+approval by its authors.
+
+END OF LICENSE
